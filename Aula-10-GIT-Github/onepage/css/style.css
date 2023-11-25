@@ -7,7 +7,7 @@
 
 :root {
     --black-rgb: 0,0,0;
-    --black: black;
+    --black: rgb(12, 13, 13);
     --white: #fff; 
 }
 
