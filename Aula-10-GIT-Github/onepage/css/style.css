@@ -6,9 +6,7 @@
 }
 
 :root {
-    --black-rgb: 0,0,0;
-    --black: rgb(12, 13, 13);
-    --white: #fff; 
+    --link-color: #000;
 }
 
 html {
